@@ -1,2 +1,6 @@
 Flask
 Gunicorn
+sqlalchemy
+mysql.connector
+urllib.parse
+face_recognition
